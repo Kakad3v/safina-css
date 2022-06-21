@@ -21,7 +21,7 @@ font-size: 12px;
 - style tag
 
 # 21st June 2022
-- Displa
+- Display
   - flexbox
   - grid
 - Spacing

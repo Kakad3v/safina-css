@@ -2,6 +2,7 @@
 * {
 padding: 0;
 margin: 0;
+font-size: 32px;
 }
 
 a {
@@ -30,6 +31,36 @@ nav ul li {
     margin: 15px;
 }
 
-nav ul li a{
-    color: red;
+
+.banner {
+    height: 100vh;
+    padding: 10rem;
+}
+
+.banner .content {
+    max-width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    background: red;
+    /* padding: 12px; */
+    /* gap: 10rem; */
+    font-size: 16px;
+
+}
+
+.banner .content h1 {
+
+}
+
+.bigheading {
+    font-size: 2rem;
+}
+
+.banner .content p {
+    /* margin-top: 24px; */
+    background: green;
+    margin: 12px 0;
+    padding: 12px;
+
 }
