@@ -19,3 +19,16 @@ font-size: 12px;
 - Linked stylesheets
 - Inline stylesheets
 - style tag
+
+# 21st June 2022
+- Displa
+  - flexbox
+  - grid
+- Spacing
+    - padding
+    - margin
+
+- Decorations
+    - border
+    - border-radius
+    - box-shadow
